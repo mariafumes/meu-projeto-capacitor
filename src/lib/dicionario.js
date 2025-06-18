@@ -7,13 +7,6 @@ export const dicionario = [
         ]
     },
     {
-        palavra: 'baleia',
-        definicoes: [
-            'Grande mamífero marinho, conhecido por seu tamanho e inteligência.',
-            'Usado figurativamente para descrever algo ou alguém muito grande.'
-        ]
-    },
-    {
         palavra: 'abstrato',
         definicoes: [
             'Que não é concreto; que pertence ao domínio das ideias.'
@@ -62,6 +55,13 @@ export const dicionario = [
         ]
     },
     {
+        palavra: 'baleia',
+        definicoes: [
+            'Grande mamífero marinho, conhecido por seu tamanho e inteligência.',
+            'Usado figurativamente para descrever algo ou alguém muito grande.'
+        ]
+    },
+    {
         palavra: 'benevolente',
         definicoes: [
             'Que demonstra boa vontade e generosidade.'
@@ -71,6 +71,12 @@ export const dicionario = [
         palavra: 'categórico',
         definicoes: [
             'Absoluto, claro, sem deixar dúvidas.'
+        ]
+    },
+    {
+        palavra: 'cético',
+        definicoes: [
+            'Que duvida ou questiona algo.'
         ]
     },
     {
@@ -109,12 +115,7 @@ export const dicionario = [
             'Confirmar ou dar apoio a uma afirmação.'
         ]
     },
-    {
-        palavra: 'cético',
-        definicoes: [
-            'Que duvida ou questiona algo.'
-        ]
-    },
+
     {
         palavra: 'decorrente',
         definicoes: [
@@ -242,6 +243,18 @@ export const dicionario = [
         ]
     },
     {
+        palavra: 'gama',
+        definicoes: [
+            'Nome da terceira letra do alfabeto grego, Γ, correspondente ao g, G latino.'
+        ]
+    },
+    {
+        palavra: 'genuíno',
+        definicoes: [
+            'Legítimo, verdadeiro.'
+        ]
+    },
+    {
         palavra: 'heurístico',
         definicoes: [
             'Que leva à descoberta por tentativa e erro.'
@@ -356,6 +369,24 @@ export const dicionario = [
         ]
     },
     {
+        palavra: 'jurídico',
+        definicoes: [
+            'Em conformidade com os princípios do direito; que se faz por via da justiça; lícito, legal.'
+        ]
+    },
+    {
+        palavra: 'juvenil',
+        definicoes: [
+            'Que apresenta caracteres próprios da juventude; jovem, moço.'
+        ]
+    },
+    {
+        palavra: 'leito',
+        definicoes: [
+            'Armação de madeira, ferro ou outro material, que sustenta o estrado e os colchões da cama.'
+        ]
+    },
+    {
         palavra: 'lúdico',
         definicoes: [
             'Relacionado ao jogo ou brincadeira.'
@@ -452,12 +483,6 @@ export const dicionario = [
         ]
     },
     {
-        palavra: 'paroxismo',
-        definicoes: [
-            'Ponto mais alto ou intenso de algo.'
-        ]
-    },
-    {
         palavra: 'passível',
         definicoes: [
             'Suscetível a sofrer algo.'
@@ -488,12 +513,6 @@ export const dicionario = [
         ]
     },
     {
-        palavra: 'pertinente',
-        definicoes: [
-            'Que se relaciona diretamente com o assunto.'
-        ]
-    },
-    {
         palavra: 'plenitude',
         definicoes: [
             'Estado de completude ou totalidade.'
@@ -503,12 +522,6 @@ export const dicionario = [
         palavra: 'ponderar',
         definicoes: [
             'Refletir cuidadosamente antes de agir.'
-        ]
-    },
-    {
-        palavra: 'precípuo',
-        definicoes: [
-            'Principal, mais importante.'
         ]
     },
     {
@@ -524,12 +537,6 @@ export const dicionario = [
         ]
     },
     {
-        palavra: 'primazia',
-        definicoes: [
-            'Prioridade, superioridade.'
-        ]
-    },
-    {
         palavra: 'procrastinar',
         definicoes: [
             'Adiar tarefas ou decisões.'
@@ -542,15 +549,21 @@ export const dicionario = [
         ]
     },
     {
-        palavra: 'prosaico',
-        definicoes: [
-            'Comum, sem originalidade.'
-        ]
-    },
-    {
         palavra: 'prudente',
         definicoes: [
             'Que age com cautela e bom senso.'
+        ]
+    },
+    {
+        palavra: 'quesito',
+        definicoes: [
+            'Ponto ou questão sobre a qual se pede a opinião ou o juízo de alguém.'
+        ]
+    },
+    {
+        palavra: 'quiçá',
+        definicoes: [
+            'Possivelmente, mas não com certeza; talvez, porventura.'
         ]
     },
     {
@@ -662,6 +675,12 @@ export const dicionario = [
         ]
     },
     {
+        palavra: 'unidade',
+        definicoes: [
+            'A qualidade ou o estado de ser um ou único.'
+        ]
+    },
+    {
         palavra: 'utópico',
         definicoes: [
             'Ideal, mas difícil de realizar.'
@@ -684,5 +703,18 @@ export const dicionario = [
         definicoes: [
             'Que pode ser ferido ou prejudicado.'
         ]
-    }
+    },
+    {
+        palavra: 'zabumba',
+        definicoes: [
+            'Tambor de sonoridade grave e membranas nas duas extremidades; bombo, bumba, bumbo, caixa grande, zambê, zambumba, zé-pereira.'
+        ]    
+    },
+    {
+        palavra: 'zangão',
+        definicoes: [
+            'Macho das diversas spp. de abelhas sociais, esp. da abelha-europeia, caracterizado pelo porte superior ao das operárias e ausência de ferrão; abelha-macha [Alheio às atividades de manutenção da colmeia, não produz mel e possui apenas papel reprodutor.'
+        ]
+
+   }
 ];       
